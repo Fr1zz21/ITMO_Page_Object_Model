@@ -1,4 +1,4 @@
-from Pages.base_page import BasePage
+from pages.base_page import BasePage
 from selenium import webdriver
 driver = webdriver.Chrome
 from selenium.common.exceptions import NoSuchElementException
