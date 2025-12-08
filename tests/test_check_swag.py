@@ -1,4 +1,4 @@
-from Pages.swag_labs import SwagLabs
+from pages.swag_labs import SwagLabs
 
 
 def test_check_icon(driver):
